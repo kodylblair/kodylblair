@@ -16,7 +16,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/dakota-blair-35608229a
+[linkedin]: www.linkedin.com/in/dakota-blair-lane
 
 
 
