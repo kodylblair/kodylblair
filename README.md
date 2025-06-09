@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 # ☁️ Azure / Cloud Projects
-- [Creating a Live SOC / Honeynet in Azure](https://github.com/kodylblair/Azure-SOC)
+- [**Creating a Live SOC / Honeynet in Azure**](https://github.com/kodylblair/Azure-SOC)
 
 
 
@@ -14,6 +14,8 @@
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
  # 🛡️ Incident Response 
+- [**Create Alert Rule (Brute Force Attempt Detection)**](https://github.com/kodylblair/Brute-Force-Attack-Lab-Cloud-VM-Defense-Response)
+
 
   
 
