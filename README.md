@@ -18,6 +18,7 @@
 - [**Create Alert Rule (Powershell-Suspicious-Web-Request)**](https://github.com/kodylblair/-Incident-Response-Case-Study-PowerShell-Script-Execution-via-Suspicious-Web-Requests)
 
 # 🕵️‍♂️ Threat Hunting 
+- [**Threat Hunting Scenario Tor**](https://github.com/kodylblair/Threat-Hunting-Scenario-tor)
 
 
   
