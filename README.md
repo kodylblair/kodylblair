@@ -1,6 +1,16 @@
-<h1>Hi, I'm Dakota! Cybersecurity Professional
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello!+👋;+I'm+Dakota+Blair!;" />
+</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h3 align="center"> Cybersecurity Professional 🔐</h3>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/dakota-lane-blair"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+---
+🔍 Dedicated to solving real-world cybersecurity challenges through hands-on expertise in SIEM deployment, threat detection, and vulnerability management. Explore my projects to see how I’ve strengthened security operations and optimized incident response workflows.
+
 
 # ☁️ Azure / Cloud Projects
 - [**Creating a Live SOC / Honeynet in Azure**](https://github.com/kodylblair/Azure-SOC)
