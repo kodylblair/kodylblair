@@ -30,6 +30,7 @@
 
 # 🕵️‍♂️ Threat Hunting 
 - [**Threat Hunting Scenario Tor**](https://github.com/kodylblair/Threat-Hunting-Scenario-tor)
+- [**Devices Accidentally Exposed to the Internet**](https://github.com/kodylblair/Device-Accidentally-Exposed-to-Internet?tab=readme-ov-file)
 
 
   
