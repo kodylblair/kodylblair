@@ -31,7 +31,7 @@
 # 🕵️‍♂️ Threat Hunting 
 - [**Threat Hunting Scenario Tor**](https://github.com/kodylblair/Threat-Hunting-Scenario-tor)
 - [**Devices Accidentally Exposed to the Internet**](https://github.com/kodylblair/Device-Accidentally-Exposed-to-Internet?tab=readme-ov-file)
-- [**Sudden Network Slowdown**](https://github.com/kodylblair/Sudden-Network-Slowdown/blob/main/README.md)
+- [**Sudden Network Slowdown**](https://github.com/kodylblair/Sudden-Network-Slowdown)
 
 
   
